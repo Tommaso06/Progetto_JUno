@@ -19,8 +19,8 @@ Il metodo `main` si occupa esclusivamente di avviare il sistema, utilizzando `Sw
 ## Istruzioni di Gioco
 
 ### Avviare una Partita (Umani e Bot)
-1. Importare l'archivio ZIP del progetto nell'IDE e assicurarsi che il Build Path sia impostato su Java 21.
-2. Avviare l'esecuzione dalla classe `main.Main`.
+1. Importare la cartella Juno nell'IDE e assicurarsi che il Build Path sia impostato su Java 21, oppure scaricare la realese ed avviare per Windows/linux/macOS.
+2. Avviare l'esecuzione dalla classe `main.Main, oppure avviare il file eseguibile delle realese.
 3. Dal menu principale, cliccare su **Gioca**.
 4. Selezionare la **Modalità Classica** o la **Modalità A Punti**.
 5. Impostare il numero di giocatori umani e di bot.
